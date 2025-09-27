@@ -10,7 +10,7 @@ This repository contains all the projects I completed for the **FreeCodeCamp Sci
 - Probability Calculator
 
 ## 🎓 Certification
-[View my Certification](https://www.freecodecamp.org/certification/your-username/scientific-computing-with-python)
+[View my Certification]([https://www.freecodecamp.org/certification/your-username/scientific-computing-with-python](https://www.freecodecamp.org/certification/md_zahid_hasan_maruf/scientific-computing-with-python-v7))
 
 ---
 ⭐ If you find this helpful, feel free to star the repo!
